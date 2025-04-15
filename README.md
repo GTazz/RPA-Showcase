@@ -1,2 +1,2 @@
 # RPA-Showcase
-RPA rojects to showcase on interviews
+RPA projects to showcase on interviews
