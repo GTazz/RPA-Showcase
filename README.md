@@ -1,5 +1,3 @@
-# RPA-Showcase
-
 # Guia de Preparação para Entrevista  
 **Vaga: Automação com Python**
 
